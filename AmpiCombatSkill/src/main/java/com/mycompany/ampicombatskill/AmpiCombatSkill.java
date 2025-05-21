@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.HashMap;
 import java.util.Stack;
 
-    public class AmpiCombatSkill {
+    public class AmpiUndanganDaelCombatSkill {
         
     static Scanner scanner = new Scanner(System.in);
     static Random random = new Random();
